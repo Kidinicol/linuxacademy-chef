@@ -1,0 +1,54 @@
+{
+  "create": {
+    "actors": [
+      "kidinicol",
+      "linuxnode",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "read": {
+    "actors": [
+      "kidinicol",
+      "linuxnode",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "kidinicol",
+      "linuxnode",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "kidinicol",
+      "linuxnode",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "kidinicol",
+      "linuxnode",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}
